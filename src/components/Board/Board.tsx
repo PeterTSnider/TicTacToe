@@ -36,9 +36,7 @@ const Board = () => {
 
   const checkIfWin = (row: number, col: number) => {
     const isWin = false;
-    const currentSpace = game[row][col].value;
-    console.log("CIW: " + currentSpace);
-    console.log(isWin);
+    console.log(row, col);
     return isWin;
   };
 
