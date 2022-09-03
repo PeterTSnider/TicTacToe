@@ -1,4 +1,2 @@
-## Available Scripts
-
-A fun little project creating tic-tac-toe in React. 
+## A fun little project creating tic-tac-toe in React. 
 
